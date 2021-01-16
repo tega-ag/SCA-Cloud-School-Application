@@ -17,3 +17,6 @@ localhost:8080
 Back to GitHub, I created a stable branch
 Also, I made some changes to your Dockerfile so the webpage displays Welcome to SCA Cloud School Application , this is my first assessment
 Then, commit these changes to the repo into a branch called feature and Merge the feature branch to the stable branch.
+
+
+docker pull oghenetega/sample-nginx
